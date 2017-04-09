@@ -1,11 +1,17 @@
 ## Anthony Crisp
 
 Coming from a background in design, I have been looking for a way to utilise my creativity in a challenging and stimulating way.
+
 After years being unfulfilled in various roles, I thought that I would finally try coding, something that has for a long time fascinated me, but until recently I considered unobtainable.
+
 And it’s proven to be everything that I hoped that it would be, mentally very challenging but hugely satisfying.
+
 One of the things that I find so rewarding about design is simplicity and elegance, the ability to design a product that fulfils its purpose in the most succinct way, is a pleasure to see and to use.
+
 I have found that with coding many parallels exist, an elegant line of code that fulfils its purpose perfectly is a beautiful thing, equally software that is intuitive and visually engaging while empowering the user or simply making their life easier is again a beautiful thing.
+
 The products that have revolutionised the way people live their lives in recent years are inextricably linked to technology, and the software that they use governs the way people interact with them.
+
 My goal is to make the user experience as simple and intuitive as possible, like with any well designed product, if it fulfils its purpose in the most succinct way and appeals to the users aesthetics, it will be a pleasure to use and quickly become indispensable.
 
 
